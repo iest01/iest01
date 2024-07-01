@@ -1,8 +1,8 @@
-- 👋 Hello, I’m @iest01
+# 👋 Hello, I’m @iest01
 - 👀 I’m interested in: Data, security, and other network related things
 - 🌱 I’m currently learning: Many things 😭 (APIs right now!)
 - 💞️ I’m looking to collaborate on: Nothing right now, but any help is appreciated
-- 📫 How to reach me: Message me on here or use my email: iestyn_thomas@yahoo.co.uk
+- 📫 How to reach me: Send me an email at: *iestyn_thomas@yahoo.co.uk*
 - ⚡ Fun fact: I have no idea what I'm doing
 
 ❗ View my test repo to see what I've been up to (seasoned devs, cover your eyes!)
