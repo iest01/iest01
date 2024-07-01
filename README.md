@@ -1,6 +1,6 @@
 # 👋 Hello, I’m @iest01
 - 👀 I’m interested in: Data, security, and other network related things
-- 🌱 I’m currently learning: Many things 😭 (APIs right now!)
+- 🌱 I’m currently learning: Many things 😭 (Python & APIs right now!)
 - 💞️ I’m looking to collaborate on: Nothing right now, but any help is appreciated
 - 📫 How to reach me: Send me an email at: *iestyn_thomas@yahoo.co.uk*
 - ⚡ Fun fact: I have no idea what I'm doing
